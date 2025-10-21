@@ -106,8 +106,6 @@ Two key plots were generated to visualize model accuracy:
    - The predicted curve closely follows the actual data points.
    - Indicates that polynomial regression captures non-linear relationships better.
 
-*(You can include these plots in the repository inside an `images/` folder.)*
-
 ---
 
 ## 🧩 Conclusion
@@ -126,7 +124,6 @@ For further improvement and exploration, the following steps can be added:
 - Apply **Ridge** or **Lasso Regression** for regularization and overfitting control.
 - Use **K-Fold Cross-Validation** for more robust accuracy estimation.
 - Implement **feature importance analysis** to identify key predictors of car price.
-- Deploy the final model via **Flask**, **FastAPI**, or **Streamlit** for interactive prediction.
 
 ---
 
